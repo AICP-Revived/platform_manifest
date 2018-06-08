@@ -216,7 +216,7 @@
   <project path="external/libusb-compat" name="platform/external/libusb-compat" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libutf" name="platform/external/libutf" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libvncserver" name="platform/external/libvncserver" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="external/libvorbis" name="platform/external/libvorbis" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
+  <project path="external/libvorbis" name="LineageOS/android_external_libvorbis" groups="pdk" />
   <project path="external/libvpx" name="LineageOS/android_external_libvpx" groups="pdk" />
   <project path="external/libvterm" name="platform/external/libvterm" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libweave" name="platform/external/libweave" remote="aosp" />
