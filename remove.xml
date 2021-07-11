@@ -89,6 +89,7 @@
   <remove-project name="platform/packages/apps/Browser2" />
   <remove-project name="platform/packages/apps/Calendar" />
   <remove-project name="platform/packages/apps/Camera2" />
+  <remove-project name="platform/packages/apps/Car/Settings" />
   <remove-project name="platform/packages/apps/Contacts" />
   <remove-project name="platform/packages/apps/DeskClock" />
   <remove-project name="platform/packages/apps/DocumentsUI" />
@@ -106,6 +107,8 @@
   <remove-project name="platform/packages/apps/SettingsIntelligence" />
   <remove-project name="platform/packages/apps/Stk" />
   <remove-project name="platform/packages/apps/ThemePicker" />
+  <remove-project name="platform/packages/apps/Traceur" />
+  <remove-project name="platform/packages/apps/TvSettings" />
   <remove-project name="platform/packages/apps/WallpaperPicker2" />
   <remove-project name="platform/packages/inputmethods/LatinIME" />
   <remove-project name="platform/packages/modules/DnsResolver" />
@@ -113,6 +116,7 @@
   <remove-project name="platform/packages/providers/DownloadProvider" />
   <remove-project name="platform/packages/providers/MediaProvider" />
   <remove-project name="platform/packages/providers/TelephonyProvider" />
+  <remove-project name="platform/packages/services/Car" />
   <remove-project name="platform/packages/services/Mms" />
   <remove-project name="platform/packages/services/Telecomm" />
   <remove-project name="platform/packages/services/Telephony" />
