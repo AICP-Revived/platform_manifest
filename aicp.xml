@@ -82,13 +82,13 @@
   <project path="packages/apps/Dialer" name="AICP/packages_apps_Dialer" remote="aicp" />
   <project path="packages/apps/Launcher3" name="AICP/packages_apps_Launcher3" remote="aicp" />
   <project path="packages/apps/Messaging" name="AICP/packages_apps_Messaging" groups="pdk-fs" remote="aicp" />
-  <project path="packages/apps/PermissionController" name="AICP/packages_apps_PackageInstaller" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
+  <project path="packages/apps/PermissionController" name="AICP-Revived/packages_apps_PackageInstaller" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
   <project path="packages/apps/Settings" name="AICP-Revived/packages_apps_Settings" remote="aicp" />
   <project path="packages/apps/SetupWizard" name="AICP/packages_apps_SetupWizard" remote="aicp" />
   <project path="packages/apps/ThemePicker" name="AICP/packages_apps_ThemePicker" remote="aicp" />
   <project path="packages/apps/WallpaperPicker2" name="AICP/packages_apps_WallpaperPicker2" groups="pdk-fs" remote="aicp" />
   <project path="packages/modules/DnsResolver" name="AICP/packages_modules_DnsResolver" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
-  <project path="packages/services/Telecomm" name="AICP/packages_services_Telecomm" remote="aicp" />
+  <project path="packages/services/Telecomm" name="AICP-Revived/packages_services_Telecomm" remote="aicp" />
   <project path="platform_manifest" name="AICP-Revived/platform_manifest" remote="aicp" />
   <project path="system/core" name="AICP/system_core" groups="pdk" remote="aicp" />
   <project path="system/netd" name="AICP/system_netd" groups="pdk" remote="aicp" />
