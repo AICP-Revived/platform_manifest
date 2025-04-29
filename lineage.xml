@@ -85,6 +85,7 @@
   <project path="packages/apps/Aperture" name="LineageOS/android_packages_apps_Aperture" remote="lineage" />
   <project path="packages/apps/AudioFX" name="LineageOS/android_packages_apps_AudioFX" remote="lineage" />
   <project path="packages/apps/Backgrounds" name="LineageOS/android_packages_apps_Backgrounds" remote="lineage" />
+  <project path="packages/apps/Car/SystemUI" name="LineageOS/android_packages_apps_Car_SystemUI" groups="pdk-fs" remote="lineage" />
   <project path="packages/apps/Camelot" name="LineageOS/android_packages_apps_Camelot" remote="lineage" />
   <project path="packages/apps/Camera2" name="LineageOS/android_packages_apps_Camera2" groups="pdk-fs" remote="lineage" />
   <project path="packages/apps/CellBroadcastReceiver" name="LineageOS/android_packages_apps_CellBroadcastReceiver" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
