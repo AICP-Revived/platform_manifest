@@ -76,7 +76,7 @@
   <!-- <project path="packages/apps/Pif" name="AICP/packages_apps_Pif" remote="aicp" /> -->
   <!-- <project path="packages/apps/Updater" name="AICP/packages_apps_Updater" remote="aicp" /> -->
   <!--<project path="packages/apps/PartsBin" name="AICP/packages_apps_PartsBin" remote="aicp" />-->
-  <project path="packages/apps/Settings" name="LineageOS/android_packages_apps_Settings" groups="pdk-fs" remote="lineage" />
+  <project path="packages/apps/Settings" name="AICP/packages_apps_Settings" groups="pdk-fs" remote="aicp" />
   <!-- <project path="packages/apps/SimpleDeviceConfig" name="AICP/packages_apps_SimpleDeviceConfig" remote="aicp" /> -->
   <!--<project path="packages/apps/Snap" name="AICP/packages_apps_Snap" remote="aicp" />-->
   <project path="packages/apps/ThemePicker" name="LineageOS/android_packages_apps_ThemePicker" groups="pdk-fs" remote="lineage" />
