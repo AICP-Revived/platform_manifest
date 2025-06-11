@@ -52,6 +52,7 @@
   <remove-project name="platform/external/android-nn-driver" />
   <remove-project name="platform/external/angle" />
   <remove-project name="platform/external/armnn" />
+  <remove-project name="platform/external/dng_sdk" />
   <remove-project name="platform/external/e2fsprogs" />
   <remove-project name="platform/external/freetype" />
   <remove-project name="platform/external/giflib" />
