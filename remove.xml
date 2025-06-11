@@ -54,6 +54,7 @@
   <remove-project name="platform/external/armnn" />
   <remove-project name="platform/external/e2fsprogs" />
   <remove-project name="platform/external/freetype" />
+  <remove-project name="platform/external/giflib" />
   <remove-project name="platform/external/gptfdisk" />
   <remove-project name="platform/external/libvpx" />
   <remove-project name="platform/external/libxml2" />
