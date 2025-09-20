@@ -5,6 +5,7 @@
   <project path="art" name="LineageOS/android_art" groups="pdk" remote="lineage" />
   <project path="bootable/recovery" name="LineageOS/android_bootable_recovery" groups="pdk" remote="lineage" />
   <project path="build/blueprint" name="LineageOS/android_build_blueprint" groups="pdk,tradefed" remote="lineage" />
+  <project path="cts" name="LineageOS/android_cts" groups="cts,pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="development" name="LineageOS/android_development" groups="developers,pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="device/generic/goldfish" name="LineageOS/android_device_generic_goldfish" groups="pdk" remote="lineage" />
   <project path="device/generic/goldfish-opengl" name="LineageOS/android_device_generic_goldfish-opengl" groups="pdk" remote="lineage" />
@@ -35,6 +36,7 @@
   <project path="external/ntfs-3g" name="LineageOS/android_external_ntfs-3g" remote="lineage" />
   <project path="external/openssh" name="LineageOS/android_external_openssh" groups="pdk" remote="lineage" />
   <project path="external/p7zip" name="LineageOS/android_external_p7zip" remote="lineage" />
+  <project path="external/pdfium" name="LineageOS/android_external_pdfium" groups="pdk" remote="lineage" />
   <project path="external/perfetto" name="LineageOS/android_external_perfetto" groups="pdk" remote="lineage" />
   <project path="external/pigz" name="LineageOS/android_external_pigz" remote="lineage" />
   <project path="external/rsync" name="LineageOS/android_external_rsync" remote="lineage" />
