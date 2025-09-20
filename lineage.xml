@@ -214,6 +214,7 @@
   <project path="system/tools/mkbootimg" name="LineageOS/android_system_tools_mkbootimg" remote="lineage" />
   <project path="tools/apksig" name="LineageOS/android_tools_apksig" groups="pdk,tradefed" remote="lineage" />
   <project path="vendor/codeaurora/telephony" name="LineageOS/android_vendor_codeaurora_telephony" remote="lineage" />
+  <project path="vendor/crowdin" name="LineageOS/android_vendor_crowdin" remote="lineage" />
   <project path="vendor/nxp/opensource/interfaces/nfc" name="LineageOS/android_vendor_nxp_interfaces_opensource_nfc" remote="lineage" />
   <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="LineageOS/android_vendor_nxp_opensource_external_libnfc-nci" remote="lineage" />
   <project path="vendor/nxp/opensource/commonsys/frameworks" name="LineageOS/android_vendor_nxp_opensource_frameworks" remote="lineage" />
