@@ -24,6 +24,7 @@
   <project path="external/htop" name="LineageOS/android_external_htop" remote="lineage" />
   <project path="external/icu" name="LineageOS/android_external_icu" groups="pdk" remote="lineage" />
   <project path="external/libavc" name="LineageOS/android_external_libavc" groups="pdk" remote="lineage" />
+  <project path="external/libcups" name="LineageOS/android_external_libcups" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="external/libexif" name="LineageOS/android_external_libexif" groups="pdk" remote="lineage" />
   <project path="external/libncurses" name="LineageOS/android_external_libncurses" remote="lineage" />
   <project path="external/libnfc-nxp" name="LineageOS/android_external_libnfc-nxp" remote="lineage" />

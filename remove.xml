@@ -47,6 +47,7 @@
   <remove-project name="platform/external/guice" />
   <remove-project name="platform/external/icu" />
   <remove-project name="platform/external/libavc" />
+  <remove-project name="platform/external/libcups" />
   <remove-project name="platform/external/libexif" />
   <remove-project name="platform/external/libvpx" />
   <remove-project name="platform/external/libxml2" />
