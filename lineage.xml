@@ -90,6 +90,7 @@
   <project path="packages/apps/KeyChain" name="LineageOS/android_packages_apps_KeyChain" remote="lineage" />
   <project path="packages/apps/ManagedProvisioning" name="LineageOS/android_packages_apps_ManagedProvisioning" groups="pdk-fs" remote="lineage" />
   <project path="packages/apps/Nfc" name="LineageOS/android_packages_apps_Nfc" groups="apps_nfc,pdk-fs" remote="lineage" />
+  <project path="packages/apps/QuickAccessWallet" name="LineageOS/android_packages_apps_QuickAccessWallet" groups="pdk-fs" remote="lineage" />
   <project path="packages/apps/SettingsIntelligence" name="LineageOS/android_packages_apps_SettingsIntelligence" groups="pdk-fs" remote="lineage" />
   <project path="packages/apps/SimpleDeviceConfig" name="LineageOS/android_packages_apps_SimpleDeviceConfig" remote="lineage" />
   <project path="packages/apps/Stk" name="LineageOS/android_packages_apps_Stk" groups="apps_nfc,pdk-fs" remote="lineage" />
@@ -102,6 +103,7 @@
   <project path="packages/services/Car" name="LineageOS/android_packages_services_Car" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="packages/services/Mms" name="LineageOS/android_packages_services_Mms" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="system/bt" name="LineageOS/android_system_bt" groups="pdk" remote="lineage" />
+  <project path="system/ca-certificates" name="LineageOS/android_system_ca-certificates" groups="pdk" remote="lineage" />
   <project path="system/incremental_delivery" name="LineageOS/android_system_incremental_delivery" groups="pdk" remote="lineage" />
   <project path="system/media" name="LineageOS/android_system_media" groups="pdk" remote="lineage" />
   <project path="system/nfc" name="LineageOS/android_system_nfc" groups="pdk" remote="lineage" />

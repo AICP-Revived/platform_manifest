@@ -103,6 +103,7 @@
   <remove-project name="platform/packages/apps/Messaging" />
   <remove-project name="platform/packages/apps/Nfc" />
   <remove-project name="platform/packages/apps/PackageInstaller" />
+  <remove-project name="platform/packages/apps/QuickAccessWallet" />
   <remove-project name="platform/packages/apps/QuickSearchBox" />
   <remove-project name="platform/packages/apps/Settings" />
   <remove-project name="platform/packages/apps/SettingsIntelligence" />
@@ -122,6 +123,7 @@
   <remove-project name="platform/packages/services/Telecomm" />
   <remove-project name="platform/packages/services/Telephony" />
   <remove-project name="platform/system/bt" />
+  <remove-project name="platform/system/ca-certificates" />
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/incremental_delivery" />
   <remove-project name="platform/system/media" />
