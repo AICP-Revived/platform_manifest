@@ -40,10 +40,12 @@
   <remove-project name="platform/external/boringssl" />
   <remove-project name="platform/external/chromium-webview" />
   <remove-project name="platform/external/cldr" />
+  <remove-project name="platform/external/dng_sdk" />
   <remove-project name="platform/external/dtc" />
   <remove-project name="platform/external/e2fsprogs" />
   <remove-project name="platform/external/expat" />
   <remove-project name="platform/external/freetype" />
+  <remove-project name="platform/external/giflib" />
   <remove-project name="platform/external/gptfdisk" />
   <remove-project name="platform/external/guice" />
   <remove-project name="platform/external/icu" />
@@ -56,6 +58,8 @@
   <remove-project name="platform/external/openssh" />
   <remove-project name="platform/external/pdfium" />
   <remove-project name="platform/external/perfetto" />
+  <remove-project name="platform/external/skia" />
+  <remove-project name="platform/external/sonivox" />
   <remove-project name="platform/external/tinyalsa" />
   <remove-project name="platform/external/tinycompress" />
   <remove-project name="platform/external/toybox" />
@@ -92,6 +96,7 @@
   <remove-project name="platform/hardware/qcom/sm7250/gps" />
   <remove-project name="platform/hardware/qcom/sm7250/media" />
   <remove-project name="platform/hardware/ril" />
+  <remove-project name="platform/libcore" />
   <remove-project name="platform/packages/apps/Bluetooth" />
   <remove-project name="platform/packages/apps/Browser2" />
   <remove-project name="platform/packages/apps/Calendar" />
@@ -119,6 +124,7 @@
   <remove-project name="platform/packages/apps/TvSettings" />
   <remove-project name="platform/packages/apps/WallpaperPicker2" />
   <remove-project name="platform/packages/inputmethods/LatinIME" />
+  <remove-project name="platform/packages/modules/CellBroadcastService" />
   <remove-project name="platform/packages/modules/DnsResolver" />
   <remove-project name="platform/packages/providers/ContactsProvider" />
   <remove-project name="platform/packages/providers/DownloadProvider" />
@@ -132,6 +138,7 @@
   <remove-project name="platform/system/ca-certificates" />
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/incremental_delivery" />
+  <remove-project name="platform/system/libfmq" />
   <remove-project name="platform/system/media" />
   <remove-project name="platform/system/netd" />
   <remove-project name="platform/system/nfc" />
@@ -145,6 +152,7 @@
   <remove-project name="platform/tools/apksig" />
 
   <!-- Prebuilts -->
+  <remove-project name="platform/prebuilts/abi-dumps/vndk" />
   <remove-project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" />
   <remove-project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9" />
   <remove-project name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" />

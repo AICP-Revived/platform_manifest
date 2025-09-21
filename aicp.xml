@@ -47,18 +47,18 @@
   <project path="packages/apps/JamesDSPManager" name="AICP/packages_apps_JamesDSPManager" remote="aicp" />
   <project path="packages/apps/OmniStyle" name="AICP/packages_apps_OmniStyle" remote="aicp" />
   <project path="packages/apps/PartsBin" name="AICP/packages_apps_PartsBin" remote="aicp" />
-  <project path="packages/apps/Snap" name="AICP/packages_apps_Snap" remote="aicp" />
+  <project path="packages/apps/Snap" name="AICP-Revived/packages_apps_Snap" remote="aicp" />
   <project path="packages/apps/TilesWallpaper" name="AICP/packages_apps_TilesWallpaper" remote="aicp" />
   <project path="packages/apps/TvSettings" name="AICP-Revived/packages_apps_TvSettings" groups="pdk-fs" remote="aicp" />
   <project path="packages/apps/Updater" name="AICP/packages_apps_Updater" remote="aicp" />
   <project path="packages/overlays/AICP" name="AICP/packages_overlays_AICP" remote="aicp" />
   <project path="packages/resources/deviceparts" name="AICP/packages_resources_deviceparts" remote="aicp" />
-  <project path="packages/resources/devicesettings" name="AICP/packages_resources_devicesettings" remote="aicp" />
+  <project path="packages/resources/devicesettings" name="AICP-Revived/packages_resources_devicesettings" remote="aicp" />
   <project path="packages/services/OmniJaws" name="AICP/packages_services_OmniJaws" remote="aicp" />
-  <project path="packages/services/Telephony" name="AICP/packages_services_Telephony" remote="aicp" />
+  <project path="packages/services/Telephony" name="AICP-Revived/packages_services_Telephony" remote="aicp" />
   <project path="prebuilts/clang/host/linux-x86_custom" name="AICP/prebuilts_clang_host_linux-x86" remote="aicp" revision="master" clone-depth="1" />
   <project path="system/update_engine" name="AICP/system_update_engine" remote="aicp" />
-  <project path="vendor/aicp" name="AICP/vendor_aicp" remote="aicp" />
+  <project path="vendor/aicp" name="AICP-Revived/vendor_aicp" remote="aicp" />
 
  <!-- AICP AOSP Repos -->
   <project path="bionic" name="AICP/bionic" remote="aicp" />
@@ -79,21 +79,21 @@
   <project path="frameworks/base" name="AICP-Revived/frameworks_base" remote="aicp" />
   <project path="frameworks/libs/systemui" name="AICP/frameworks_libs_systemui" remote="aicp"/>
   <project path="frameworks/native" name="AICP-Revived/frameworks_native" remote="aicp" />
-  <project path="packages/apps/Contacts" name="AICP/packages_apps_Contacts" remote="aicp" />
+  <project path="packages/apps/Contacts" name="AICP-Revived/packages_apps_Contacts" remote="aicp" />
   <project path="packages/apps/Dialer" name="AICP/packages_apps_Dialer" remote="aicp" />
   <project path="packages/apps/Launcher3" name="AICP/packages_apps_Launcher3" remote="aicp" />
   <project path="packages/apps/Messaging" name="AICP/packages_apps_Messaging" groups="pdk-fs" remote="aicp" />
   <project path="packages/apps/PermissionController" name="AICP-Revived/packages_apps_PackageInstaller" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
   <project path="packages/apps/Settings" name="AICP-Revived/packages_apps_Settings" remote="aicp" />
-  <project path="packages/apps/SetupWizard" name="AICP/packages_apps_SetupWizard" remote="aicp" />
+  <project path="packages/apps/SetupWizard" name="AICP-Revived/packages_apps_SetupWizard" remote="aicp" />
   <project path="packages/apps/ThemePicker" name="AICP/packages_apps_ThemePicker" remote="aicp" />
   <project path="packages/apps/WallpaperPicker2" name="AICP/packages_apps_WallpaperPicker2" groups="pdk-fs" remote="aicp" />
-  <project path="packages/modules/DnsResolver" name="AICP/packages_modules_DnsResolver" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
+  <project path="packages/modules/DnsResolver" name="AICP-Revived/packages_modules_DnsResolver" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
   <project path="packages/services/Telecomm" name="AICP-Revived/packages_services_Telecomm" remote="aicp" />
   <project path="platform_manifest" name="AICP-Revived/platform_manifest" remote="aicp" />
-  <project path="system/core" name="AICP/system_core" groups="pdk" remote="aicp" />
-  <project path="system/netd" name="AICP/system_netd" groups="pdk" remote="aicp" />
-  <project path="system/sepolicy" name="AICP/system_sepolicy" groups="pdk" remote="aicp" />
+  <project path="system/core" name="AICP-Revived/system_core" groups="pdk" remote="aicp" />
+  <project path="system/netd" name="AICP-Revived/system_netd" groups="pdk" remote="aicp" />
+  <project path="system/sepolicy" name="AICP-Revived/system_sepolicy" groups="pdk" remote="aicp" />
 
     <!-- OMNI additions -->
   <project path="packages/apps/Phonograph" name="omnirom/android_packages_apps_Phonograph" remote="omni" />
