@@ -113,6 +113,7 @@
   <project name="lin18-microG/android_packages_providers_DownloadProvider" path="packages/providers/DownloadProvider" remote="codeberg" />
   <project name="lin18-microG/android_packages_providers_MediaProvider" path="packages/providers/MediaProvider" remote="codeberg" />
   <project path="packages/providers/TelephonyProvider" name="LineageOS/android_packages_providers_TelephonyProvider" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
+  <project path="packages/services/BuiltInPrintService" name="LineageOS/android_packages_services_BuiltInPrintService" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="packages/services/Car" name="LineageOS/android_packages_services_Car" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="packages/services/Mms" name="LineageOS/android_packages_services_Mms" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project name="lin18-microG/android_system_bt" path="system/bt" remote="codeberg" />
