@@ -18,6 +18,7 @@
   <project path="external/e2fsprogs" name="LineageOS/android_external_e2fsprogs" groups="pdk" remote="lineage" />
   <project path="external/exfatprogs" name="LineageOS/android_external_exfatprogs" remote="lineage" />
   <project path="external/expat" name="LineageOS/android_external_expat" remote="lineage" />
+  <project path="external/freetype" name="LineageOS/android_external_freetype" groups="pdk" remote="lineage" />
   <project path="external/gptfdisk" name="LineageOS/android_external_gptfdisk" groups="pdk" remote="lineage" />
   <project path="external/guice" name="LineageOS/android_external_guice" groups="pdk" remote="lineage" />
   <project path="external/htop" name="LineageOS/android_external_htop" remote="lineage" />
@@ -121,6 +122,7 @@
   <project path="prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9" name="LineageOS/android_prebuilts_gcc_linux-x86_x86_x86_64-linux-android-4.9" groups="pdk,linux,x86" clone-depth="1" remote="lineage" />
   <project path="prebuilts/tools-aicp" name="LineageOS/android_prebuilts_tools-lineage" clone-depth="1" remote="lineage" />
   <project path="tools/extract-utils" name="LineageOS/android_tools_extract-utils" remote="lineage" />
+  <project path="tools/apksig" name="LineageOS/android_tools_apksig" groups="pdk,tradefed" remote="lineage" />
 
 
   <!-- CodeAurora additions -->
