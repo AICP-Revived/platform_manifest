@@ -7,6 +7,7 @@
   <remove-project name="platform/build/soong" />
   <remove-project name="platform/build/blueprint" />
   <remove-project name="platform/bootable/recovery" />
+  <remove-project name="platform/cts" />
   <remove-project name="platform/development" />
   <remove-project name="device/amlogic/yukawa" />
   <remove-project name="device/amlogic/yukawa-kernel" />
@@ -52,6 +53,7 @@
   <remove-project name="platform/external/libxml2" />
   <remove-project name="platform/external/mksh" />
   <remove-project name="platform/external/openssh" />
+  <remove-project name="platform/external/pdfium" />
   <remove-project name="platform/external/perfetto" />
   <remove-project name="platform/external/robolectric-shadows" />
   <remove-project name="platform/external/tinyalsa" />
