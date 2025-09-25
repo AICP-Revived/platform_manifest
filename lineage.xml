@@ -24,6 +24,7 @@
   <project path="external/htop" name="LineageOS/android_external_htop" remote="lineage" />
   <project path="external/icu" name="LineageOS/android_external_icu" groups="pdk" remote="lineage" />
   <project path="external/libavc" name="LineageOS/android_external_libavc" groups="pdk" remote="lineage" />
+  <project path="external/libcups" name="LineageOS/android_external_libcups" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="external/libexif" name="LineageOS/android_external_libexif" groups="pdk" remote="lineage" />
   <project path="external/libncurses" name="LineageOS/android_external_libncurses" remote="lineage" />
   <project path="external/libnfc-nxp" name="LineageOS/android_external_libnfc-nxp" remote="lineage" />
@@ -43,6 +44,7 @@
   <project path="external/tremolo" name="LineageOS/android_external_tremolo" groups="pdk" remote="lineage" />
   <project path="external/unrar" name="LineageOS/android_external_unrar" remote="lineage" />
   <project path="external/vim" name="LineageOS/android_external_vim" remote="lineage" />
+  <project path="external/webp" name="LineageOS/android_external_webp" groups="pdk,qcom_msm8x26" remote="lineage" />
   <project path="external/wpa_supplicant_8" name="LineageOS/android_external_wpa_supplicant_8" groups="pdk" remote="lineage" />
   <project path="external/zip" name="LineageOS/android_external_zip" remote="lineage" />
   <project path="external/zlib" name="LineageOS/android_external_zlib" groups="pdk" remote="lineage" />
@@ -103,6 +105,7 @@
   <project path="packages/providers/DownloadProvider" name="LineageOS/android_packages_providers_DownloadProvider" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="packages/providers/MediaProvider" name="LineageOS/android_packages_providers_MediaProvider" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="packages/providers/TelephonyProvider" name="LineageOS/android_packages_providers_TelephonyProvider" groups="pdk-cw-fs,pdk-fs"  remote="lineage" />
+  <project path="packages/services/BuiltInPrintService" name="LineageOS/android_packages_services_BuiltInPrintService" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="packages/services/Mms" name="LineageOS/android_packages_services_Mms" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="system/bt" name="LineageOS/android_system_bt" groups="pdk" remote="lineage" />
   <project path="system/ca-certificates" name="LineageOS/android_system_ca-certificates" groups="pdk" remote="lineage" />
