@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remote name="codeberg" fetch="https://codeberg.org" revision="lineage-18.1" />
 
   <!-- LineageOS Additions -->
   <project path="art" name="LineageOS/android_art" groups="pdk" remote="lineage" />
@@ -109,7 +110,7 @@
   <project path="packages/providers/TelephonyProvider" name="LineageOS/android_packages_providers_TelephonyProvider" groups="pdk-cw-fs,pdk-fs"  remote="lineage" />
   <project path="packages/services/BuiltInPrintService" name="LineageOS/android_packages_services_BuiltInPrintService" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="packages/services/Mms" name="LineageOS/android_packages_services_Mms" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
-  <project path="system/bt" name="LineageOS/android_system_bt" groups="pdk" remote="lineage" />
+  <project path="system/bt" name="lin18-microG/android_system_bt" groups="pdk" remote="codeberg" />
   <project path="system/ca-certificates" name="LineageOS/android_system_ca-certificates" groups="pdk" remote="lineage" />
   <project path="system/incremental_delivery" name="LineageOS/android_system_incremental_delivery" groups="pdk" remote="lineage" />
   <project path="system/media" name="LineageOS/android_system_media" groups="pdk" remote="lineage" />
@@ -233,7 +234,7 @@
   <project path="vendor/qcom/opensource/commonsys-intf/display" name="LineageOS/android_vendor_qcom_opensource_display-commonsys-intf" groups="qcom,pdk-qcom" remote="lineage" />
   <project path="vendor/qcom/opensource/commonsys/bluetooth_ext" name="LineageOS/android_vendor_qcom_opensource_bluetooth_ext" groups="qcom,pdk-qcom" remote="lineage" />
   <project path="vendor/qcom/opensource/commonsys/packages/apps/Bluetooth" name="LineageOS/android_vendor_qcom_opensource_packages_apps_Bluetooth" groups="qcom,pdk-qcom" remote="lineage" />
-  <project path="vendor/qcom/opensource/commonsys/system/bt" name="LineageOS/android_vendor_qcom_opensource_system_bt" groups="qcom,pdk-qcom" remote="lineage" />
+  <project path="vendor/qcom/opensource/commonsys/system/bt" name="lin18-microG/android_vendor_qcom_opensource_system_bt" groups="qcom,pdk-qcom" remote="codeberg" />
   <project path="vendor/qcom/opensource/cryptfs_hw" name="LineageOS/android_vendor_qcom_opensource_cryptfs_hw" groups="qcom,pdk-qcom" remote="lineage" />
   <project path="vendor/qcom/opensource/fm-commonsys" name="LineageOS/android_vendor_qcom_opensource_fm-commonsys" groups="qcom,qcom_fm" remote="lineage" />
   <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr" groups="qcom,pdk-qcom" remote="lineage" />
