@@ -114,6 +114,7 @@
   <project path="system/bt" name="lin18-microG/android_system_bt" groups="pdk" remote="codeberg" />
   <project path="system/ca-certificates" name="LineageOS/android_system_ca-certificates" groups="pdk" remote="lineage" />
   <project path="system/incremental_delivery" name="LineageOS/android_system_incremental_delivery" groups="pdk" remote="lineage" />
+  <project path="system/libfmq" name="lin18-microG/android_system_libfmq" groups="pdk" remote="codeberg" />
   <project path="system/media" name="LineageOS/android_system_media" groups="pdk" remote="lineage" />
   <project path="system/nfc" name="LineageOS/android_system_nfc" groups="pdk" remote="lineage" />
   <project path="system/timezone" name="LineageOS/android_system_timezone" groups="pdk" remote="lineage" />
