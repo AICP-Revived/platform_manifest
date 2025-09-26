@@ -41,6 +41,7 @@
   <project path="external/pigz" name="LineageOS/android_external_pigz" remote="lineage" />
   <project path="external/robolectric-shadows" name="LineageOS/android_external_robolectric-shadows" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="external/rsync" name="LineageOS/android_external_rsync" remote="lineage" />
+  <project path="external/skia" name="lin18-microG/android_external_skia" groups="pdk,qcom_msm8x26" remote="codeberg" />
   <project path="external/sonivox" name="lin18-microG/android_external_sonivox" groups="pdk" remote="codeberg" />
   <project path="external/tinyalsa" name="LineageOS/android_external_tinyalsa" groups="pdk" remote="lineage" />
   <project path="external/tinycompress" name="LineageOS/android_external_tinycompress" groups="pdk" remote="lineage" />
