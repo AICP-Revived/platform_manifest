@@ -122,6 +122,7 @@
   <remove-project name="platform/packages/apps/TvSettings" />
   <remove-project name="platform/packages/apps/WallpaperPicker2" />
   <remove-project name="platform/packages/inputmethods/LatinIME" />
+  <remove-project name="platform/packages/modules/CellBroadcastService" />
   <remove-project name="platform/packages/modules/DnsResolver" />
   <remove-project name="platform/packages/providers/ContactsProvider" />
   <remove-project name="platform/packages/providers/DownloadProvider" />
