@@ -21,7 +21,7 @@
   <project path="external/e2fsprogs" name="LineageOS/android_external_e2fsprogs" groups="pdk" remote="lineage" />
   <project path="external/exfatprogs" name="LineageOS/android_external_exfatprogs" remote="lineage" />
   <project path="external/expat" name="LineageOS/android_external_expat" remote="lineage" />
-  <project path="external/freetype" name="LineageOS/android_external_freetype" groups="pdk" remote="lineage" />
+  <project path="external/freetype" name="LineageOS-Revived/android_external_freetype" groups="pdk" remote="lineage" />
   <project path="external/giflib" name="lin18-microG/android_external_giflib" groups="pdk,qcom_msm8x26" remote="codeberg" />
   <project path="external/gptfdisk" name="LineageOS/android_external_gptfdisk" groups="pdk" remote="lineage" />
   <project path="external/guice" name="LineageOS/android_external_guice" groups="pdk" remote="lineage" />
@@ -57,7 +57,7 @@
   <project path="external/zlib" name="LineageOS/android_external_zlib" groups="pdk" remote="lineage" />
   <project path="frameworks/minikin" name="LineageOS/android_frameworks_minikin" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="frameworks/ml" name="LineageOS/android_frameworks_ml" groups="pdk" remote="lineage" />
-  <project path="frameworks/opt/net/wifi" name="LineageOS/android_frameworks_opt_net_wifi" groups="pdk" remote="lineage" />
+  <project path="frameworks/opt/net/wifi" name="lin18-microG/android_frameworks_opt_net_wifi" groups="pdk" remote="codeberg" />
   <project path="frameworks/opt/telephony" name="LineageOS/android_frameworks_opt_telephony" groups="pdk" remote="lineage" />
   <project path="frameworks/opt/timezonepicker" name="LineageOS/android_frameworks_opt_timezonepicker" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="hardware/broadcom/libbt" name="LineageOS/android_hardware_broadcom_libbt" groups="pdk" remote="lineage" />
