@@ -44,6 +44,7 @@
   <remove-project name="platform/external/expat" />
   <remove-project name="platform/external/e2fsprogs" />
   <remove-project name="platform/external/freetype" />
+  <remove-project name="platform/external/giflib" />
   <remove-project name="platform/external/gptfdisk" />
   <remove-project name="platform/external/guice" />
   <remove-project name="platform/external/icu" />
@@ -149,6 +150,7 @@
   <remove-project name="platform/tools/apksig" />
 
   <!-- Prebuilts -->
+  <remove-project name="platform/prebuilts/abi-dumps/vndk" />
   <remove-project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" />
   <remove-project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9" />
   <remove-project name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" />

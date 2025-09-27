@@ -21,6 +21,7 @@
   <project path="external/exfatprogs" name="LineageOS/android_external_exfatprogs" remote="lineage" />
   <project path="external/expat" name="LineageOS/android_external_expat" remote="lineage" />
   <project path="external/freetype" name="LineageOS/android_external_freetype" groups="pdk" remote="lineage" />
+  <project path="external/giflib" name="lin18-microG/android_external_giflib" groups="pdk,qcom_msm8x26" remote="codeberg" />
   <project path="external/gptfdisk" name="LineageOS/android_external_gptfdisk" groups="pdk" remote="lineage" />
   <project path="external/guice" name="LineageOS/android_external_guice" groups="pdk" remote="lineage" />
   <project path="external/htop" name="LineageOS/android_external_htop" remote="lineage" />
@@ -124,6 +125,7 @@
   <project path="system/vold" name="LineageOS/android_system_vold" groups="pdk" remote="lineage" />
 
   <!-- Prebuilts -->
+  <project path="prebuilts/abi-dumps/vndk" name="lin18-microG/android_prebuilts_abi-dumps_vndk" groups="pdk-fs" remote="codeberg" />
   <project path="prebuilts/build-tools" name="LineageOS/android_prebuilts_build-tools" groups="pdk" clone-depth="1" remote="lineage" />
   <project path="prebuilts/extract-tools" name="LineageOS/android_prebuilts_extract-tools" clone-depth="1" remote="lineage" />
   <project path="prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" name="LineageOS/android_prebuilts_gcc_darwin-x86_aarch64_aarch64-linux-android-4.9" groups="pdk,darwin,arm" clone-depth="1" remote="lineage" />
