@@ -52,6 +52,7 @@
   <remove-project name="platform/external/libavc" />
   <remove-project name="platform/external/libcups" />
   <remove-project name="platform/external/libexif" />
+  <remove-project name="platform/external/libjpeg-turbo" />
   <remove-project name="platform/external/libxml2" />
   <remove-project name="platform/external/mksh" />
   <remove-project name="platform/external/openssh" />
@@ -60,6 +61,7 @@
   <remove-project name="platform/external/robolectric-shadows" />
   <remove-project name="platform/external/skia" />
   <remove-project name="platform/external/sonivox" />
+  <remove-project name="platform/external/sqlite" />
   <remove-project name="platform/external/tinyalsa" />
   <remove-project name="platform/external/tinycompress" />
   <remove-project name="platform/external/toybox" />
@@ -101,6 +103,7 @@
   <remove-project name="platform/packages/apps/Calendar" />
   <remove-project name="platform/packages/apps/Camera2" />
   <remove-project name="platform/packages/apps/Car/Settings" />
+  <remove-project name="platform/packages/apps/CertInstaller" />
   <remove-project name="platform/packages/apps/Contacts" />
   <remove-project name="platform/packages/apps/DeskClock" />
   <remove-project name="platform/packages/apps/DocumentsUI" />
