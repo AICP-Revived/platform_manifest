@@ -57,6 +57,7 @@
   <remove-project name="platform/external/freetype" />
   <remove-project name="platform/external/giflib" />
   <remove-project name="platform/external/gptfdisk" />
+  <remove-project name="platform/external/libjpeg-turbo" />
   <remove-project name="platform/external/libvpx" />
   <remove-project name="platform/external/libxml2" />
   <remove-project name="platform/external/mksh" />
@@ -65,6 +66,7 @@
   <remove-project name="platform/external/selinux" />
   <remove-project name="platform/external/setupcompat" />
   <remove-project name="platform/external/sonivox" />
+  <remove-project name="platform/external/sqlite" />
   <remove-project name="platform/external/tinycompress" />
   <remove-project name="platform/external/chromium-webview" />
   <remove-project name="platform/external/dtc" />
@@ -99,6 +101,7 @@
   <remove-project name="platform/packages/apps/Browser2" />
   <remove-project name="platform/packages/apps/Calendar" />
   <remove-project name="platform/packages/apps/Camera2" />
+  <remove-project name="platform/packages/apps/CertInstaller" />
   <remove-project name="platform/packages/apps/Contacts"/>
   <remove-project name="platform/packages/apps/DeskClock" />
   <remove-project name="platform/packages/apps/Dialer" />
