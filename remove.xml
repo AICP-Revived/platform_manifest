@@ -53,6 +53,7 @@
   <remove-project name="platform/external/libcups" />
   <remove-project name="platform/external/libexif" />
   <remove-project name="platform/external/libjpeg-turbo" />
+  <remove-project name="platform/external/libpng" />
   <remove-project name="platform/external/libxml2" />
   <remove-project name="platform/external/mksh" />
   <remove-project name="platform/external/openssh" />
