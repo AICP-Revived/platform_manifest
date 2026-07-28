@@ -72,6 +72,7 @@
   <project path="external/sonivox" name="LineageOS/android_external_sonivox" groups="pdk" remote="lineage" />
   <project path="external/sqlite" name="LineageOS/android_external_sqlite" groups="pdk" remote="lineage" />
   <project path="external/tinyalsa" name="LineageOS/android_external_tinyalsa" groups="pdk" remote="lineage" />
+  <project path="external/tremolo" name="LineageOS/android_external_tremolo" groups="pdk" remote="lineage" />
   <project path="external/v8" name="LineageOS/android_external_v8" groups="pdk" remote="lineage" />
   <project path="external/wpa_supplicant_8" name="LineageOS/android_external_wpa_supplicant_8" groups="pdk" remote="lineage" />
   <project path="frameworks/hardware/interfaces" name="LineageOS/android_frameworks_hardware_interfaces" groups="pdk" remote="lineage" />
