@@ -117,6 +117,7 @@
   <remove-project name="platform/packages/screensavers/Basic" />
   <remove-project name="platform/packages/screensavers/PhotoTable" />
   <remove-project name="platform/packages/services/BuiltInPrintService" />
+  <remove-project name="platform/packages/services/Car" />
   <remove-project name="platform/packages/services/Mms" />
   <remove-project name="platform/packages/services/Telecomm" />
   <remove-project name="platform/packages/services/Telephony" />
