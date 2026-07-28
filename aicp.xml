@@ -62,10 +62,10 @@
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
-  <project path="frameworks/av" name="AICP/frameworks_av" remote="aicp" />
-  <project path="frameworks/base" name="AICP/frameworks_base" remote="aicp" />
+  <project path="frameworks/av" name="AICP-Revived/frameworks_av" remote="aicp" />
+  <project path="frameworks/base" name="AICP-Revived/frameworks_base" remote="aicp" />
   <project path="frameworks/libs/systemui" name="AICP/frameworks_libs_systemui" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
-  <project path="frameworks/native" name="AICP/frameworks_native" groups="pdk" remote="aicp" />
+  <project path="frameworks/native" name="AICP-Revived/frameworks_native" groups="pdk" remote="aicp" />
   <project path="external/pulse" name="AICP/external_pulse" groups="pdk" remote="aicp" />
   <project path="external/selinux" name="AICP/external_selinux" groups="pdk" remote="aicp" />
   <project path="hardware/lineage/interfaces" name="AICP/hardware_lineage_interfaces" remote="aicp" />
@@ -77,14 +77,14 @@
   <project path="packages/apps/Messaging" name="AICP/packages_apps_Messaging" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
   <project path="packages/apps/Updater" name="AICP/packages_apps_Updater" remote="aicp" />
   <project path="packages/apps/PartsBin" name="AICP/packages_apps_PartsBin" remote="aicp" />
-  <project path="packages/apps/Settings" name="AICP/packages_apps_Settings" groups="pdk-fs" remote="aicp" />
+  <project path="packages/apps/Settings" name="AICP-Revived/packages_apps_Settings" groups="pdk-fs" remote="aicp" />
   <project path="packages/apps/SimpleDeviceConfig" name="AICP/packages_apps_SimpleDeviceConfig" remote="aicp" />
   <project path="packages/apps/Snap" name="AICP/packages_apps_Snap" remote="aicp" />
   <project path="packages/apps/ThemePicker" name="AICP/packages_apps_ThemePicker" groups="pdk-fs" remote="aicp" />
   <project path="packages/apps/TilesWallpaper" name="AICP/packages_apps_TilesWallpaper" remote="aicp" />
   <project path="packages/modules/Connectivity" name="AICP/packages_modules_Connectivity" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
   <project path="packages/modules/DnsResolver" name="AICP/packages_modules_DnsResolver" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
-  <project path="packages/modules/Permission" name="AICP/packages_modules_Permission" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
+  <project path="packages/modules/Permission" name="AICP-Revived/packages_modules_Permission" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
   <project path="packages/overlays/AICP" name="AICP/packages_overlays_AICP" remote="aicp" />
   <project path="packages/services/Telecomm" name="AICP/packages_services_Telecomm" remote="aicp" />
   <project path="packages/resources/deviceparts" name="AICP/packages_resources_deviceparts" remote="aicp" />
