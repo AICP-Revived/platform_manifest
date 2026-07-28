@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- AICP AOSP Repos -->
-  <project path="art" name="AICP/art" groups="pdk" remote="aicp" />
+  <project path="art" name="AICP-Revived/art" groups="pdk" remote="aicp" />
   <project path="bionic" name="AICP/bionic" groups="pdk" remote="aicp" />
   <project path="bootable/recovery" name="AICP/bootable_recovery" groups="pdk" remote="aicp" />
   <project path="build/make" name="AICP/build" groups="pdk" remote="aicp" >
@@ -25,7 +25,7 @@
   <project path="frameworks/opt/net/ims" name="AICP/frameworks_opt_net_ims" groups="frameworks_ims,pdk-cw-fs,pdk-fs" remote="aicp" />
   <project path="frameworks/opt/net/wifi" name="AICP-Revived/frameworks_opt_net_wifi" remote="aicp" />
   <project path="frameworks/opt/telephony" name="AICP/frameworks_opt_telephony" groups="pdk" remote="aicp" />
-  <project path="hardware/interfaces" name="AICP/hardware_interfaces" groups="pdk" remote="aicp" />
+  <project path="hardware/interfaces" name="AICP-Revived/hardware_interfaces" groups="pdk" remote="aicp" />
   <project path="hardware/libhardware" name="AICP/hardware_libhardware" groups="pdk" remote="aicp" />
   <project path="packages/apps/Bluetooth" name="AICP-Revived/packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
   <project path="packages/apps/Contacts" name="AICP-Revived/packages_apps_Contacts" groups="apps_nfc,pdk-fs" remote="aicp" />
@@ -34,7 +34,7 @@
   <project path="packages/apps/Launcher3" name="AICP/packages_apps_Launcher3" groups="pdk-fs" remote="aicp" />
   <project path="packages/apps/Messaging" name="AICP/packages_apps_Messaging" groups="apps_nfc,pdk-fs" remote="aicp" />
   <project path="packages/apps/PhoneCommon" name="AICP/packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
-  <project path="packages/apps/Settings" name="AICP/packages_apps_Settings" groups="pdk-fs" remote="aicp" />
+  <project path="packages/apps/Settings" name="AICP-Revived/packages_apps_Settings" groups="pdk-fs" remote="aicp" />
   <project path="packages/providers/DownloadProvider" name="AICP/packages_providers_DownloadProvider" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
   <project path="packages/providers/MediaProvider" name="AICP-Revived/packages_providers_MediaProvider" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
   <project path="packages/services/Telecomm" name="AICP-Revived/packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
@@ -51,6 +51,7 @@
   <project path="development" name="LineageOS/android_development" groups="developers,pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="device/generic/goldfish" name="LineageOS/android_device_generic_goldfish" groups="pdk" remote="lineage" />
   <project path="external/aac" name="LineageOS/android_external_aac" groups="pdk" remote="lineage" />
+  <project path="external/chromium-libpac" name="LineageOS/android_external_chromium-lipac" groups="pdk" remote="lineage" />
   <project path="external/chromium-webview" name="LineageOS/android_external_chromium-webview" groups="pdk" remote="lineage" revision="master" clone-depth="1" />
   <project path="external/dnsmasq" name="LineageOS/android_external_dnsmasq" groups="pdk" remote="lineage" />
   <project path="external/e2fsprogs" name="LineageOS/android_external_e2fsprogs" groups="pdk" remote="lineage" />
