@@ -41,7 +41,7 @@
   <project path="packages/services/Telephony" name="AICP-Revived/packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
   <project path="system/bt" name="AICP-Revived/system_bt" groups="pdk" remote="aicp" />
   <project path="system/core" name="AICP/system_core" groups="pdk" remote="aicp" />
-  <project path="system/netd" name="AICP/system_netd" groups="pdk" remote="aicp" />
+  <project path="system/netd" name="AICP-Revived/system_netd" groups="pdk" remote="aicp" />
   <project path="system/sepolicy" name="AICP-Revived/system_sepolicy" groups="pdk" remote="aicp" />
   <project path="system/vold" name="AICP/system_vold" groups="pdk" remote="aicp" />
   <project path="system/update_engine" name="AICP/system_update_engine" groups="pdk" remote="aicp" />
@@ -61,6 +61,7 @@
   <project path="external/gptfdisk" name="LineageOS/android_external_gptfdisk" groups="pdk" remote="lineage" />
   <project path="external/libaom" name="LineageOS/android_external_libaom" groups="pdk" remote="lineage" />
   <project path="external/libavc" name="LineageOS/android_external_libavc" groups="pdk" remote="lineage" />
+  <project path="external/libcups" name="LineageOS/android_external_libcups" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="external/libcxx" name="LineageOS/android_external_libcxx" groups="pdk" remote="lineage" />
   <project path="external/libexif" name="LineageOS/android_external_libexif" groups="pdk" remote="lineage" />
   <project path="external/libhevc" name="LineageOS/android_external_libhevc" groups="pdk" remote="lineage" />
