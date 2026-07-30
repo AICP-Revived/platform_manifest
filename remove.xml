@@ -23,6 +23,8 @@
   <remove-project name="platform/external/libexif" />
   <remove-project name="platform/external/libhevc" />
   <remove-project name="platform/external/libtextclassifier" />
+  <remove-project name="platform/external/libvpx" />
+  <remove-project name="platform/external/libxml2" />
   <remove-project name="platform/external/mksh" />
   <remove-project name="platform/external/okhttp" />
   <remove-project name="platform/external/openssh" />
@@ -36,6 +38,7 @@
   <remove-project name="platform/external/toybox" />
   <remove-project name="platform/external/tremolo" />
   <remove-project name="platform/external/v8" />
+  <remove-project name="platform/external/webp" />
   <remove-project name="platform/external/wpa_supplicant_8" />
   <remove-project name="platform/external/zlib" />
   <remove-project name="platform/frameworks/av" />

@@ -66,6 +66,8 @@
   <project path="external/libhevc" name="LineageOS/android_external_libhevc" groups="pdk" remote="lineage" />
   <project path="external/libnfc-nxp" name="LineageOS/android_external_libnfc-nxp" remote="lineage" />
   <project path="external/libtextclassifier" name="LineageOS/android_external_libtextclassifier" groups="pdk" remote="lineage" />
+  <project path="external/libvpx" name="LineageOS/android_external_libvpx" groups="pdk" remote="lineage" />
+  <project path="external/libxml2" name="LineageOS/android_external_libxml2" groups="pdk,libxml2" remote="lineage" />
   <project path="external/mksh" name="LineageOS/android_external_mksh" groups="pdk" remote="lineage" />
   <project path="external/okhttp" name="LineageOS/android_external_okhttp" groups="pdk" remote="lineage" />
   <project path="external/ppp" name="LineageOS/android_external_ppp" groups="pdk" remote="lineage" />
@@ -76,6 +78,7 @@
   <project path="external/tinyalsa" name="LineageOS/android_external_tinyalsa" groups="pdk" remote="lineage" />
   <project path="external/tremolo" name="LineageOS/android_external_tremolo" groups="pdk" remote="lineage" />
   <project path="external/v8" name="LineageOS/android_external_v8" groups="pdk" remote="lineage" />
+  <project path="external/webp" name="LineageOS/android_external_webp" groups="pdk,qcom_msm8x26" remote="lineage" />
   <project path="external/wpa_supplicant_8" name="LineageOS/android_external_wpa_supplicant_8" groups="pdk" remote="lineage" />
   <project path="external/zlib" name="LineageOS/android_external_zlib" groups="pdk" remote="lineage" />
   <project path="frameworks/hardware/interfaces" name="LineageOS/android_frameworks_hardware_interfaces" groups="pdk" remote="lineage" />
