@@ -51,7 +51,7 @@
   <project path="development" name="LineageOS/android_development" groups="developers,pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="device/generic/goldfish" name="LineageOS/android_device_generic_goldfish" groups="pdk" remote="lineage" />
   <project path="external/aac" name="LineageOS/android_external_aac" groups="pdk" remote="lineage" />
-  <project path="external/chromium-libpac" name="LineageOS/android_external_chromium-lipac" groups="pdk" remote="lineage" />
+  <project path="external/chromium-libpac" name="LineageOS/android_external_chromium-libpac" groups="pdk" remote="lineage" />
   <project path="external/chromium-webview" name="LineageOS/android_external_chromium-webview" groups="pdk" remote="lineage" revision="master" clone-depth="1" />
   <project path="external/dng_sdk" name="LineageOS/android_external_dng_sdk" groups="pdk" remote="lineage" />
   <project path="external/dtc" name="LineageOS/android_external_dtc" groups="pdk" remote="lineage" />
