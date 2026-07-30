@@ -14,7 +14,7 @@
     <linkfile src="target" dest="build/target" />
     <linkfile src="tools" dest="build/tools" />
   </project>
-  <project path="build/soong" name="AICP/build_soong" groups="pdk,tradefed" remote="aicp" >
+  <project path="build/soong" name="AICP-Revived/build_soong" groups="pdk,tradefed" remote="aicp" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
@@ -35,7 +35,7 @@
   <project path="packages/apps/Messaging" name="AICP/packages_apps_Messaging" groups="apps_nfc,pdk-fs" remote="aicp" />
   <project path="packages/apps/PhoneCommon" name="AICP/packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
   <project path="packages/apps/Settings" name="AICP-Revived/packages_apps_Settings" groups="pdk-fs" remote="aicp" />
-  <project path="packages/providers/DownloadProvider" name="AICP/packages_providers_DownloadProvider" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
+  <project path="packages/providers/DownloadProvider" name="AICP-Revived/packages_providers_DownloadProvider" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
   <project path="packages/providers/MediaProvider" name="AICP-Revived/packages_providers_MediaProvider" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
   <project path="packages/services/Telecomm" name="AICP-Revived/packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
   <project path="packages/services/Telephony" name="AICP-Revived/packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
@@ -53,6 +53,7 @@
   <project path="external/aac" name="LineageOS/android_external_aac" groups="pdk" remote="lineage" />
   <project path="external/chromium-libpac" name="LineageOS/android_external_chromium-lipac" groups="pdk" remote="lineage" />
   <project path="external/chromium-webview" name="LineageOS/android_external_chromium-webview" groups="pdk" remote="lineage" revision="master" clone-depth="1" />
+  <project path="external/dng_sdk" name="LineageOS/android_external_dng_sdk" groups="pdk" remote="lineage" />
   <project path="external/dtc" name="LineageOS/android_external_dtc" groups="pdk" remote="lineage" />
   <project path="external/expat" name="LineageOS/android_external_expat" groups="pdk" remote="lineage" />
   <project path="external/dnsmasq" name="LineageOS/android_external_dnsmasq" groups="pdk" remote="lineage" />
