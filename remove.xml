@@ -16,6 +16,7 @@
   <remove-project name="platform/external/e2fsprogs" />
   <remove-project name="platform/external/expat" />
   <remove-project name="platform/external/freetype" />
+  <remove-project name="platform/external/giflib" />
   <remove-project name="platform/external/gptfdisk" />
   <remove-project name="platform/external/libaom" />
   <remove-project name="platform/external/libavc" />
