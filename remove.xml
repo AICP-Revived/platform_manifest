@@ -25,6 +25,7 @@
   <remove-project name="platform/external/libcxx" />
   <remove-project name="platform/external/libexif" />
   <remove-project name="platform/external/libhevc" />
+  <remove-project name="platform/external/libpng" />
   <remove-project name="platform/external/libtextclassifier" />
   <remove-project name="platform/external/libvpx" />
   <remove-project name="platform/external/libxml2" />
