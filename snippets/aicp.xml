@@ -6,32 +6,32 @@
   <project path="device/aicp/sepolicy" name="AICP/device_aicp_sepolicy" remote="aicp" />
   <project path="device/qcom/sepolicy" name="AICP/device_qcom_sepolicy" remote="aicp" />
   <project path="external/DUI" name="AICP/external_DUI" remote="aicp" />
-  <project path="external/bash" name="AICP/external_bash" remote="aicp" />
-  <project path="frameworks/av" name="AICP/frameworks_av" groups="pdk" remote="aicp" />
-  <project path="frameworks/base" name="AICP/frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
-  <project path="frameworks/native" name="AICP/frameworks_native" groups="pdk" remote="aicp" />
+  <project path="external/bash" name="AICP-Revived/external_bash" remote="aicp" />
+  <project path="frameworks/av" name="AICP-Revived/frameworks_av" groups="pdk" remote="aicp" />
+  <project path="frameworks/base" name="AICP-Revived/frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
+  <project path="frameworks/native" name="AICP-Revived/frameworks_native" groups="pdk" remote="aicp" />
   <project path="frameworks/opt/aicpgear" name="AICP/frameworks_opt_aicpgear" remote="aicp" />
   <project path="frameworks/opt/slimrecent" name="AICP/frameworks_opt_slimrecent" remote="aicp" />
-  <project path="hardware/interfaces" name="AICP/hardware_interfaces" remote="aicp" />
-  <project path="lineage-sdk" name="AICP/lineage-sdk" remote="aicp" />
+  <project path="hardware/interfaces" name="AICP-Revived/hardware_interfaces" remote="aicp" />
+  <project path="lineage-sdk" name="AICP-Revived/lineage-sdk" remote="aicp" />
   <project path="packages/apps/AicpExtras" name="AICP/packages_apps_AicpExtras" remote="aicp" />
   <project path="packages/apps/AICP_OTA" name="AICP/packages_apps_AICP_OTA" remote="aicp" />
-  <project path="packages/apps/Dialer" name="AICP/packages_apps_Dialer" groups="pdk-fs" remote="aicp" />
-  <project path="packages/apps/FMRadio" name="AICP/packages_apps_FMRadio" remote="aicp" />
-  <project path="packages/apps/LineageParts" name="AICP/packages_apps_LineageParts" remote="aicp" />
+  <project path="packages/apps/Dialer" name="AICP-Revived/packages_apps_Dialer" groups="pdk-fs" remote="aicp" />
+  <project path="packages/apps/FMRadio" name="AICP-Revived/packages_apps_FMRadio" remote="aicp" />
+  <project path="packages/apps/LineageParts" name="AICP-Revived/packages_apps_LineageParts" remote="aicp" />
   <project path="packages/apps/OmniStyle" name="AICP/packages_apps_OmniStyle" remote="aicp" />
    <project name="omnirom/android_packages_apps_OmniSwitch" path="packages/apps/OmniSwitch" remote="aicp" revision="android-8.1" />
-  <project path="packages/apps/Settings" name="AICP/packages_apps_Settings" groups="pdk-fs" remote="aicp" />
+  <project path="packages/apps/Settings" name="AICP-Revived/packages_apps_Settings" groups="pdk-fs" remote="aicp" />
   <project path="packages/overlays/AICP" name="AICP/packages_overlays_AICP" remote="aicp" />
   <project path="packages/overlays/Lineage" name="AICP/packages_overlays_Lineage" remote="aicp" />
-  <project path="packages/providers/DownloadProvider" name="AICP/packages_providers_DownloadProvider" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
+  <project path="packages/providers/DownloadProvider" name="AICP-Revived/packages_providers_DownloadProvider" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
   <project path="packages/services/OmniJaws" name="AICP/packages_services_OmniJaws" remote="aicp" />
-  <project path="packages/services/Telephony" name="AICP/packages_services_Telephony" remote="aicp" />
-  <project path="platform_manifest" name="AICP/platform_manifest" remote="aicp" />
+  <project path="packages/services/Telephony" name="AICP-Revived/packages_services_Telephony" remote="aicp" />
+  <project path="platform_manifest" name="AICP-Revived/platform_manifest" remote="aicp" />
   <project path="prebuilts/checkstyle" name="AICP/prebuilts_checkstyle" groups="pdk" clone-depth="1" remote="aicp" />
-  <project path="system/core" name="AICP/system_core" groups="pdk" remote="aicp" />
+  <project path="system/core" name="AICP-Revived/system_core_old" groups="pdk" remote="aicp" />
   <project path="system/sepolicy" name="AICP/system_sepolicy" groups="pdk" remote="aicp" />
-  <project path="vendor/aicp" name="AICP/vendor_aicp" remote="aicp" />
+  <project path="vendor/aicp" name="AICP-Revived/vendor_aicp" remote="aicp" />
 
   <!-- LineageOS additions -->
   <project path="external/chromium-webview/patches" name="LineageOS/android_external_chromium-webview_patches" groups="pdk" revision="9cc3432cd862e590f2e7e26937f0260a00912fd5" >
