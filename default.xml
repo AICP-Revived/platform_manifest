@@ -39,7 +39,7 @@
 
   <!-- AOSP Projects -->
 
-  <project path="build" name="AICP/build" groups="pdk,tradefed" remote="aicp" >
+  <project path="build" name="AICP-Revived/build" groups="pdk,tradefed" remote="aicp" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="build/blueprint" name="AICP/build_blueprint" groups="pdk,tradefed" remote="aicp" />
