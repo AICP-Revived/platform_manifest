@@ -28,7 +28,7 @@
   <project path="packages/apps/ExactCalculator" name="AICP/packages_apps_ExactCalculator" remote="aicp" />
   <project path="platform_manifest" name="AICP-Revived/platform_manifest" remote="aicp" />
   <project path="prebuilts/build-tools" name="AICP/prebuilts_build-tools" remote="aicp" />
-  <project path="system/core" name="AICP-Revived/system_core" groups="pdk" remote="aicp" />
+  <project path="system/core" name="AICP-Revived/system_core_old" groups="pdk" remote="aicp" />
   <project path="system/sepolicy" name="AICP/system_sepolicy" groups="pdk" remote="aicp" />
   <project path="vendor/aicp" name="AICP/vendor_aicp" remote="aicp" />
   <project path="vendor/cmsdk" name="AICP/vendor_cmsdk" remote="aicp" />
