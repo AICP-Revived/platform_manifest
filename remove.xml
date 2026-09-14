@@ -52,6 +52,7 @@
   <remove-project name="platform/external/libavc" />
   <remove-project name="platform/external/libcups" />
   <remove-project name="platform/external/libexif" />
+  <remove-project name="platform/external/libhevc" />
   <remove-project name="platform/external/libjpeg-turbo" />
   <remove-project name="platform/external/libpng" />
   <remove-project name="platform/external/libxml2" />
@@ -124,6 +125,7 @@
   <remove-project name="platform/packages/apps/ThemePicker" />
   <remove-project name="platform/packages/apps/Traceur" />
   <remove-project name="platform/packages/apps/TvSettings" />
+  <remove-project name="platform/packages/apps/TV" />
   <remove-project name="platform/packages/apps/WallpaperPicker2" />
   <remove-project name="platform/packages/inputmethods/LatinIME" />
   <remove-project name="platform/packages/modules/CellBroadcastService" />
