@@ -58,7 +58,7 @@
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
-  <project path="bionic" name="AICP/bionic" groups="pdk" remote="aicp" />
+  <project path="bionic" name="AICP-Revived/bionic" groups="pdk" remote="aicp" />
   <project path="bootable/recovery" name="AICP/bootable_recovery" groups="pdk" remote="aicp" />
   <project path="frameworks/av" name="AICP-Revived/frameworks_av" remote="aicp" />
   <project path="frameworks/base" name="AICP-Revived/frameworks_base" remote="aicp" />
