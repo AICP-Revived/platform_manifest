@@ -31,6 +31,7 @@
   <project path="external/libcxx" name="LineageOS/android_external_libcxx" groups="pdk" remote="lineage" />
   <project path="external/libhevc" name="LineageOS/android_external_libhevc" groups="pdk" remote="lineage" />
   <project path="external/libjpeg-turbo" name="LineageOS/android_external_libjpeg-turbo" groups="pdk" remote="lineage" />
+  <project path="external/libpng" name="LineageOS/android_external_libpng" groups="pdk" remote="lineage" />
   <project path="external/libvpx" name="LineageOS/android_external_libvpx" groups="pdk" remote="lineage" />
   <project path="external/libxml2" name="LineageOS/android_external_libxml2" groups="pdk,libxml2" remote="lineage" />
   <project path="external/pdfium" name="LineageOS/android_external_pdfium" groups="pdk" remote="lineage" />
@@ -93,6 +94,7 @@
   <project path="libcore" name="LineageOS/android_libcore" groups="pdk" remote="lineage" />
   <project path="packages/apps/Aperture" name="LineageOS/android_packages_apps_Aperture" remote="lineage" />
   <project path="packages/apps/Camera2" name="LineageOS/android_packages_apps_Camera2" groups="pdk-fs" remote="lineage" />
+  <project path="packages/apps/Car" name="LineageOS/android_packages_apps_Car" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="packages/apps/CellBroadcastReceiver" name="LineageOS/android_packages_apps_CellBroadcastReceiver" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="packages/apps/CertInstaller" name="LineageOS/android_packages_apps_CertInstaller" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="packages/apps/DeskClock" name="LineageOS/android_packages_apps_DeskClock" groups="pdk-fs" remote="lineage" />
