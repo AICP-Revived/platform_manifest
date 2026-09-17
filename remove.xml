@@ -85,7 +85,7 @@
   <remove-project name="platform/packages/apps/Stk" />
   <remove-project name="platform/packages/apps/Tag" />
   <remove-project name="platform/packages/apps/ThemePicker" />
-  <remove-project name="platform/packages/apps/Tv" />
+  <remove-project name="platform/packages/apps/TV" />
   <remove-project name="platform/packages/apps/WallpaperPicker2" />
   <remove-project name="platform/packages/inputmethods/LatinIME" />
   <remove-project name="platform/packages/inputmethods/LeanbackIME" />
