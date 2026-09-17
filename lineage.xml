@@ -133,7 +133,7 @@
   <project path="system/ca-certificates" name="LineageOS/android_system_ca-certificates" groups="pdk" remote="lineage" />
   <project path="system/apex" name="LineageOS/android_system_apex" groups="pdk" remote="lineage" />
   <project path="system/extras" name="LineageOS/android_system_extras" groups="pdk" remote="lineage" />
-  <project path="system/incremental_delivery" name="LineageOS/android_incremental_delivery" groups="pdk" remote="lineage" />
+  <project path="system/incremental_delivery" name="LineageOS/android_system_incremental_delivery" groups="pdk" remote="lineage" />
   <project path="system/keymaster" name="LineageOS/android_system_keymaster" groups="pdk" remote="lineage" />
   <project path="system/libfmq" name="LineageOS/android_system_libfmq" groups="pdk" remote="lineage" />
   <project path="system/libhidl" name="LineageOS/android_system_libhidl" groups="pdk" remote="lineage" />
