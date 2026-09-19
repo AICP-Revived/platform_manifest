@@ -29,7 +29,7 @@
   <project path="external/libavc" name="LineageOS/android_external_libavc" groups="pdk" remote="lineage" />
   <project path="external/libcups" name="LineageOS/android_external_libcups" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="external/libexif" name="LineageOS/android_external_libexif" groups="pdk" remote="lineage" />
-  <project path="external/libhevc" name="LineageOS/android_external_libhevc" groups="pdk" />
+  <project path="external/libhevc" name="LineageOS/android_external_libhevc" groups="pdk" remote="lineage"/>
   <project path="external/libjpeg-turbo" name="LineageOS/android_external_libjpeg-turbo" groups="pdk" remote="lineage" />
   <project path="external/libncurses" name="LineageOS/android_external_libncurses" remote="lineage" />
   <project path="external/libnfc-nxp" name="LineageOS/android_external_libnfc-nxp" remote="lineage" />
@@ -111,7 +111,7 @@
   <project path="packages/apps/SimpleDeviceConfig" name="LineageOS/android_packages_apps_SimpleDeviceConfig" remote="lineage" />
   <project path="packages/apps/Stk" name="LineageOS/android_packages_apps_Stk" groups="apps_nfc,pdk-fs" remote="lineage" />
   <project path="packages/apps/Traceur" name="LineageOS/android_packages_apps_Traceur" groups="pdk-fs" remote="lineage" />
-  <project path="packages/apps/TV" name="LineageOS/android_packages_apps_TV" groups="pdk" />
+  <project path="packages/apps/TV" name="LineageOS/android_packages_apps_TV" groups="pdk" remote="lineage"/>
   <project path="packages/inputmethods/LatinIME" name="LineageOS/android_packages_inputmethods_LatinIME" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="packages/modules/CellBroadcastService" name="LineageOS/android_packages_modules_CellBroadcastService" groups="pdk" remote="lineage" />
   <project path="packages/providers/ContactsProvider" name="LineageOS/android_packages_providers_ContactsProvider" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
