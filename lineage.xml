@@ -6,6 +6,7 @@
   <project path="device/generic/common" name="LineageOS/android_device_generic_common" groups="pdk" remote="lineage" />
   <project path="device/google/atv" name="LineageOS/android_device_google_atv" groups="device,broadcom_pdk,generic_fs,pdk" remote="lineage" />
   <project path="device/lineage/sepolicy" name="LineageOS/android_device_lineage_sepolicy" remote="lineage" />
+  <project path="external/aac" name="LineageOS/android_external_aac" groups="pdk" remote="lineage" />
   <project path="external/android-nn-driver" name="LineageOS/android_external_android-nn-driver" groups="pdk-lassen,pdk-gs-arm" remote="lineage" />
   <project path="external/armnn" name="LineageOS/android_external_armnn" groups="pdk-lassen,pdk-gs-arm" remote="lineage" />
   <project path="external/avb" name="LineageOS/android_external_avb" groups="pdk" remote="lineage" />
@@ -47,6 +48,7 @@
   <project path="external/sqlite" name="LineageOS/android_external_sqlite" groups="pdk" remote="lineage" />
   <project path="external/tinycompress" name="LineageOS/android_external_tinycompress" groups="pdk" remote="lineage" />
   <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" remote="aosp" revision="refs/tags/android-11.0.0_r46" />
+  <project path="external/tremolo" name="LineageOS/android_external_tremolo" groups="pdk" remote="lineage" />
   <project path="external/unrar" name="LineageOS/android_external_unrar" remote="lineage" />
   <project path="external/vim" name="LineageOS/android_external_vim" remote="lineage" />
   <project path="external/webp" name="LineageOS/android_external_webp" groups="pdk,qcom_msm8x26" remote="lineage"/>
@@ -132,6 +134,7 @@
   <project path="packages/providers/TelephonyProvider" name="LineageOS/android_packages_providers_TelephonyProvider" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="packages/services/BuiltInPrintService" name="LineageOS/android_packages_services_BuiltInPrintService" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="packages/services/Car" name="LineageOS/android_packages_services_Car" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
+  <project path="packages/services/Iwlan" name="LineageOS/android_packages_services_Iwlan" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/services/Mms" name="LineageOS/android_packages_services_Mms" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="packages/services/Telephony" name="LineageOS/android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="system/ca-certificates" name="LineageOS/android_system_ca-certificates" groups="pdk" remote="lineage" />
